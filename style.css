@@ -7,7 +7,7 @@ a {
    }
 
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: #fff
+    color: #ffff9a
     }
 
 #hero {
@@ -98,7 +98,7 @@ a {
    color: #151515;
 }
 
-.assortment .icon-box {
+.articles .icon-box {
      border: 1px solid #afafaf;
      padding: 80px 20px;
      transition: all ease-in-out 0.3s;
@@ -106,7 +106,7 @@ a {
      margin-bottom: 20px;
 }
 
-.assortment .icon-box .icon {
+.articles .icon-box .icon {
     margin: 0 auto;
     width: 64px;
     height: 64px;
@@ -119,49 +119,27 @@ a {
     margin-bottom: 20px;
 }
 
-.assortment .icon-box h4 {
+.articles .icon-box h4 {
     font-weight: 700;
     margin-bottom: 15px;
     font-size: 24px;
 }
 
-.assortment .icon-box p {
+.articles .icon-box p {
     line-height: 24px;
     margin-bottom: 0px;
     font-size: 14px;
 }
 
-.assortment .icon-box:hover {
+.articles .icon-box:hover {
     border-color: #fff;
     box-shadow: 0px 0 25px 0 rgba(2,2,2, 0.5);
     transform: translateY(-10px);
 }
 
-.contact .info .info-icon {
-    background: #EFE381;
-    float: left;
-    width: 44px;
-    height: 44px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 4px;
-}
-
-.contact .info h4 {
-    padding: 0 0 0 60px;
-    font-size: 22px;
-    font-weight: 600px;
-    margin-bottom: 5px;
-}
-
-.contact .info p {
-    padding: 0 0 0 60px;
-    font-size: 14px;
-}
 
 .footer-top {
-   background: #794D31;
+   background: #bfa042;
    color: #fff;
    border-bottom 1px solid #222222;
    padding: 60px 0 30px 0;
@@ -228,5 +206,5 @@ a {
 }
 
 .footer-links a:hover {
-   color: #EFE381;
+   color: #ffff9a;
 }
