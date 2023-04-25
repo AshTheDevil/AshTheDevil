@@ -55,11 +55,16 @@ a {
     text-align: center;
 }
 
+.articles a {
+   color: #000;
+}
+
 .articles .icon-box p {
     line-height: 24px;
     margin-bottom: 0px;
     font-size: 14px;
     text-align: center;
+    color: #000;
 }
 
 .articles .icon-box:hover {
